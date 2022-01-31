@@ -1,0 +1,6 @@
+[
+    {"name": "Mango", "type": "fruit"},
+    {"name": "orange", "type":"fruit"},
+    {"name": "potato", "type": "veggie"},
+    {"name": "grapes", "type": "fruit"}
+   ]
